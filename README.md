@@ -1,7 +1,7 @@
 # python-machine-learning
 
 # Files
-- [/Pandas](https://github.com/codevelvet/python-machine-learning/tree/main/Pandas) - Intro to pandas notebooks [^1]
+- [/learning](https://github.com/codevelvet/python-machine-learning/tree/main/learning) - Intro to ML notebooks [^1]
 - [/shark-attacks](https://github.com/codevelvet/python-machine-learning/tree/main/ml-models/shark-attacks/v1) - v1 Prediction of shark attack fatality [^2] 
 
 
