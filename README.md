@@ -1,8 +1,13 @@
 # python-machine-learning
 
+# Models
+| Notebook | Notes  |
+| -------- | -------------- |
+| [Predicting shark attack fatalities - with Geohashes](https://github.com/codevelvet/python-machine-learning/blob/main/ml-models/shark-attacks/v2/predicting-shark-attack-fatality.ipynb) |  Comparison of KNN, Decision Tree, Logistic Regression, Random Forest and SVM |
+
 # Files
-- [/learning](https://github.com/codevelvet/python-machine-learning/tree/main/learning) - Intro to ML notebooks [^1]
-- [/shark-attacks](https://github.com/codevelvet/python-machine-learning/tree/main/ml-models/shark-attacks/v1) - v1 Prediction of shark attack fatality [^2] 
+- [/learning](https://github.com/codevelvet/python-machine-learning/tree/main/learning) - Intro to ML [^1]
+- [/models](https://github.com/codevelvet/python-machine-learning/tree/main/ml-models) - Machine learning models [^2] 
 
 
 [^1]: Instructor: Sridevi Pudipeddi, Ph.D.
